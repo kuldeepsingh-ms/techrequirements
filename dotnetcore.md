@@ -10,5 +10,5 @@
 [".NET Core SDK 3.0"](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-3.0.100-windows-x64-installer)
 [".NET Core SDK 2.1"](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.1.802-windows-x64-installer)
 
-## 3 Git 2.23.0
+### 4 Git
 ["Git 2.23.0"](https://git-scm.com/downloads)
