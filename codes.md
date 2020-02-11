@@ -1,10 +1,5 @@
 # https://github.com/MikeBarker-MSFT/AzL200/
 # https://www.microsoftazurepass.com/Home/HowTo
 
-## 01	QLLBBGPTU3QFYNEQVB
-## 02	QKSKXWD3OFWRZ54EHO
-## 03	QJM3J5O52B3V2UUH0Q
-## 04	QBMDQEMZ6ERWD3OVMP
-## 05	QJGNR152CDYEZ8FKHC
-## 06	QEND4NECD2BZ6JI4UL
-## 07	QC8RF3VS0I2HDV4VW3
+## Feedback link
+https://aka.ms/marston-azure-technical-workshop-feedback
